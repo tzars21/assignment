@@ -1,0 +1,10 @@
+__pycache__/
+.env
+.env.* 
+*.pyc
+venv/
+dist/
+build/
+.coverage
+.pytest_cache/
+tests/data/*.pdf
